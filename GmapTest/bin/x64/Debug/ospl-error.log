@@ -1,0 +1,17 @@
+========================================================================================
+Report      : ERROR
+Date        : 2020-01-09T08:29:36-0600
+Description : Failed to unregister wait handleSystem Error Code:  997
+Node        : US03902N01
+Process     : GmapTest.exe <6344>
+Thread      : 22624
+Internals   : 6.10.3/ab06e92ccf/8f19187365/os__sharedMemoryClientShmDomainFree/code/os_sharedmem.c/2934/0/1578580176.376224200/0
+
+========================================================================================
+Report      : ERROR
+Date        : 2020-01-09T08:29:36-0600
+Description : Failed to send notification to server
+Node        : US03902N01
+Process     : GmapTest.exe <22296>
+Thread      : 10728
+Internals   : 6.10.3/ab06e92ccf/8f19187365/os_sharedMemoryDeregisterProcess/code/os_sharedmem.c/3045/0/1578580176.377120800/0
